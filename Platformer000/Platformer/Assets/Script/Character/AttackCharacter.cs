@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class AttackCharacter : MonoBehaviour
 {
-    [SerializeField] private Animator _animator;
+    [SerializeField] private  Animator _animator;
 
     private void Update()
     {
